@@ -5,18 +5,18 @@
 
 button {
   background: none;
-  border: 2px solid white;
+  border: 2px solid rgb(113, 47, 47);
   padding: 6px 12px;
   border-radius: 4px;
   color: white;
   font-weight: bold;
   cursor: pointer;
-  font-size: 1em;
+  font-size: 2em;
 }
 
 button:hover {
   background: #c23866;
-  color: white;
+  color: rgb(47, 11, 11);
 }
 .card-grid{
   margin-top: 40px;
